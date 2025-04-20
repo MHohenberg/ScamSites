@@ -35,4 +35,8 @@ If you think I missed something, you can always contact me, or make a pull reque
 
 Sure. I will check every pull request first, though. 
 
-When you do plan to do a pull request, please sort the list before committing it. We want our list neat and orderly, one line per scam URL.
+### How to do this:
+1. Sort the list alphabetically before committing
+2. One URL (or related URLs) per commit
+. Explanation WHY you think it is a scam site in the commit message. Give proper reasoning. Bad or missing explanations will lead to the Pull Request being denied.
+4. One PR per commit
